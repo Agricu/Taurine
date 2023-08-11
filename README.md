@@ -1,3 +1,7 @@
+# 改版源代码
+
+使用KFD漏洞执行越狱，使越狱时间极大的缩短！
+
 # Taurine
 
 iOS 14 semi-untethered jailbreak.
